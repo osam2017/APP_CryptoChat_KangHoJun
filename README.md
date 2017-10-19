@@ -2,6 +2,7 @@
 ## AES-256 암호화, Socket.IO를 사용한 보안 채팅 어플리케이션 
 
 팀 : 이 오픈소스는 무료로 해줍니다
+
 참가자 : 강호준
 
 ---------------
@@ -51,7 +52,8 @@ ID | Pw | Name
 
 
 3. DB Name : OSAM / Table Name : kanghojun_login
-4. 포트 5004
+4. mysql user : root / password : root 으로 되어있습니다. app.js에서 수정가능 
+5. 포트 5004
 
 ---------------
 ### 개선을 위한 toDoList
