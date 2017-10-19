@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\work\repo\crypto_chat\app\libs\commons-codec-1.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b95f4897fa13f2cd904aee711aeafc0c5295cd8">
+        <dex dex="C:\work\repo\crypto_chat\app\build\intermediates\pre-dexed\debug\commons-codec-1.10_1300e640acfc3ca08df0d6493009fd5b30c9650d.jar" />
+    </item>
+
+</items>

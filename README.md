@@ -50,7 +50,8 @@ ID | Pw | Name
 16-111111 | 4567 | 하사 하사랑
 
 
-3. DB Name : OSAM / Table Name : kanghojun
+3. DB Name : OSAM / Table Name : kanghojun_login
+4. 포트 5004
 
 ---------------
 ### 개선을 위한 toDoList
