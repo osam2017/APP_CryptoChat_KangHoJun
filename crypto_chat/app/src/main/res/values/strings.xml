@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CryptoChat</string>
+    <string name="action_leave">로그아웃</string>
+    <string name="action_changeKey">암호키 변경</string>
+    <string name="action_send">전송</string>
+    <string name="prompt_message">메세지</string>
+    <string name="connect">연결되었습니다</string>
+    <string name="disconnect">연결이 끊겼습니다</string>
+    <string name="error_connect">연결에 실패했습니다</string>
+
+    <!-- messages -->
+    <string name="message_welcome">- AES256기반 암호화 채팅을 시작합니다 -</string>
+    <plurals name="message_participants">
+        <item quantity="one">방에 혼자있습니다</item>
+        <item quantity="other"> %d 명이 대화중입니다</item>
+    </plurals>
+    <string name="message_user_joined">%s 님이 들어왔습니다</string>
+    <string name="message_user_left">%s 님이 나갔습니다</string>
+    <string name="user_action_typing">님이 입력중입니다</string>
+    <string name="title_activity_login">입장</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_ID">군번을 입력해주세요</string>
+    <string name="prompt_Password">비밀번호를 입력해주세요</string>
+    <string name="prompt_encrypt_key">암호키를 입력해주세요</string>
+    <string name="change_encrypt_key">변경할 암호키를 입력해주세요</string>
+    <string name="action_sign_in">입장</string>
+    <string name="action_sign_in_short">입장</string>
+    <string name="relogin">암호키를 다시 입력해주세요</string>
+
+    <string name="error_field_required">필수로 입력하셔야 합니다</string>
+    <string name="error_wrong_data">ID나 PW를 다시 확인해주세요</string>
+
+</resources>
