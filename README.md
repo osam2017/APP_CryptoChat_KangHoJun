@@ -54,8 +54,11 @@ ID | Pw | Name
 3. DB 정보
 
 >  DB Name : **OSAM** 
+>  
 >  Table Name : **kanghojun_login**
+>  
 >  mysql user : **root**
+>  
 >  mysql password : **root**
  
 4. 포트 5004
