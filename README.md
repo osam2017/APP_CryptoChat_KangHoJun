@@ -51,13 +51,19 @@ ID | Pw | Name
 16-111111 | 4567 | 하사 하사랑
 
 
-3. DB Name : OSAM / Table Name : kanghojun_login
-4. mysql user : root / password : root 으로 되어있습니다. app.js에서 수정가능 
-5. 포트 5004
+3. DB 정보
+
+>  DB Name : **OSAM** 
+>  Table Name : **kanghojun_login**
+>  mysql user : **root**
+>  mysql password : **root**
+ 
+4. 포트 5004
 
 ---------------
 ### 개선을 위한 toDoList
 
 1. 채팅 room 개설 - 모두가 한 room에서 메세지를 주고 받지 않고, 자기가 원하는 사람과 메세지를 주고 받을 수 있게 개선합니다.
 2. UI 이쁘게 바꾸기 - 보기좋게!
+
 
